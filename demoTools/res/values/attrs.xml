@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<resources>  
+    <declare-styleable name="ImagePagerView">  
+        <!-- 默认占位图 -->
+        <attr name="defaultDrawable" format="reference" /> 
+        <!-- 是否可以自动滚动 --> 
+        <attr name="auto_Flipable" format="boolean" />
+        <!-- 自动滚动时间间隔-->
+        <attr name="auto_Flipseconds" format="integer" />
+    </declare-styleable>  
+</resources> 
