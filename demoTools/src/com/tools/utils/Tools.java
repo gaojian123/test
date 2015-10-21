@@ -51,7 +51,7 @@ import android.widget.ListView;
 import android.widget.TextView;
 
 /**
- * @author wangw
+ * @author 1
  *
  *         公用方法类库
  *
